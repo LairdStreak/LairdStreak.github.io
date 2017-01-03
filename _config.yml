@@ -20,4 +20,4 @@ markdown: kramdown
 # future
 future: true
 
-theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist
