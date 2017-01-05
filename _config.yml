@@ -6,10 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Grim 93
+title: grim93 Developer Geek
 email: lairdstreak@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Ramblings of a Code Jockey, husband and father.
+description: "Ramblings of a Developer / Coder, husband and father sometimes gamer and wanna be artsy guy."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grim93.github.io" # the base hostname & protocol for your site
 twitter_username: lairdstreak
