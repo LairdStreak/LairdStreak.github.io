@@ -1,7 +1,7 @@
 ---
-layout: page
 title: MyLinks
-permalink: /mylinks/
+permalink: "/mylinks/"
+layout: page
 ---
 
 This is a list of some of my favorite links:
