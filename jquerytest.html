@@ -16,22 +16,43 @@
 <div id="images"></div>
  
 <script>
-(function() {
-  var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
-  $.getJSON( flickerAPI, {
-    tags: "mount rainier",
-    tagmode: "any",
-    format: "json"
+$(function(){
+
+  //debugger;
+  //alert('here')
+  // Assign handlers immediately after making the request,
+// and remember the jqxhr object for this request
+var jqxhr = $.getJSON("https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty", function(data) {
+  console.log( "success" );
+})
+  .fail(function() {
+    console.log( "error" );
   })
-    .done(function( data ) {
-      $.each( data.items, function( i, item ) {
-        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
-        if ( i === 3 ) {
-          return false;
-        }
-      });
-    });
-})();
+  .always(function() {
+    console.log( "complete" );
+  });
+ 
+// Perform other work here ...
+ 
+// Set another completion function for the request above
+jqxhr.done(function(data) {
+
+  var subset = data.slice(0,20);
+  //console.log( data );
+  $.each(subset,function(index,item){
+    //console.log(item);
+    pullData(item)
+  })
+});
+})
+
+
+function pullData(item){
+  var uri = "https://hacker-news.firebaseio.com/v0/item/" + item + ".json"; 
+  var jqfetch = $.getJSON(uri, function(data){  }).done(function(data){
+    console.log(data.url)
+  })
+}
 </script>
  
 </body>
