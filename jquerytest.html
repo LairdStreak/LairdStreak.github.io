@@ -1,20 +1,8 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>jQuery.getJSON demo</title>
-  <style>
-  img {
-    height: 100px;
-    float: left;
-  }
-  </style>
-  <script src="assets/jquery-3.1.1.min.js"></script>
-</head>
-<body>
- <!-- https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty -->
-<div id="images"></div>
- 
+---
+title: Some Tech News
+layout: page
+---
+<script src="{{ site.url }}/assets/jquery-3.1.1.min.js"></script>
 <script>
 $(function(){
 
@@ -50,10 +38,11 @@ jqxhr.done(function(data) {
 function pullData(item){
   var uri = "https://hacker-news.firebaseio.com/v0/item/" + item + ".json"; 
   var jqfetch = $.getJSON(uri, function(data){  }).done(function(data){
-    console.log(data.url)
+    //console.log(data.url)
+    $("#newstable").append('<tr><td><a href=' + data.url + ' target=_blank>' + data.title + '</a></td></tr>');
   })
 }
 </script>
- 
-</body>
-</html>
+<div style="background-color: #cccccc">news.ycombinator Current top 20.</div>
+<table id="newstable">
+</table> 
