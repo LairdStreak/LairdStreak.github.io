@@ -4,14 +4,15 @@ permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+***About Me***
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+What can I tell you about myself.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a husband to a beautiful woman and father to three wonderful kids.
+
+My current job entails designing and writing code for the company I work at specifically I can not say as I am sure some information could be sensitive.
+
+My currently most used technology stack's are C# ASP.NET MVC and also EMBERJS with Node.
+
 
 
