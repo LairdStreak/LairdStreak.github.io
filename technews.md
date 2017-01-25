@@ -2,8 +2,6 @@
 title: Some Tech News
 layout: page
 ---
-
-<script src="{{ site.url }}/assets/jquery-3.1.1.min.js"></script>
 <script>
 $(function(){
 
