@@ -1,5 +1,5 @@
 ---
-title: grim93 Developer Geek
+title: Laird Streak Developer Geek
 timezone: UTC
 collections:
   posts:
@@ -12,9 +12,9 @@ email: lairdstreak@gmail.com
 description: Ramblings of a Developer / Coder, husband and father sometimes gamer
   and wanna be artsy guy.
 baseurl: ''
-url: https://grim93.github.io
+url: https://lairdstreak.github.io
 twitter_username: lairdstreak
-github_username: grim93
+github_username: lairdstreak
 copy_data: Copyright @me
 markdown: kramdown
 future: true
