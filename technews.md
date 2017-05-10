@@ -37,7 +37,6 @@ jqxhr.done(function(data) {
 function pullData(item){
   var uri = "https://hacker-news.firebaseio.com/v0/item/" + item + ".json"; 
   var jqfetch = $.getJSON(uri, function(data){  }).done(function(data){
-    //console.log(data.url)
     $("#newstable").append('<tr><td><a href=' + data.url + ' target=_blank>' + data.title + '</a></td></tr>');
   })
 }
