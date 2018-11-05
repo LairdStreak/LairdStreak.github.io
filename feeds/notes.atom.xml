@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>'Laird Streak`s Personal Blog' - Notes</title><link href="https://lairdstreak.github.io/" rel="alternate"></link><link href="https://lairdstreak.github.io/feeds/notes.atom.xml" rel="self"></link><id>https://lairdstreak.github.io/</id><updated>2018-11-05T14:18:00+13:00</updated><entry><title>Learning List</title><link href="https://lairdstreak.github.io/learning-list.html" rel="alternate"></link><published>2018-11-05T14:18:00+13:00</published><updated>2018-11-05T14:18:00+13:00</updated><author><name>Laird Streak</name></author><id>tag:lairdstreak.github.io,2018-11-05:/learning-list.html</id><summary type="html">&lt;h1&gt;Learning List&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] React.js&lt;/li&gt;
+&lt;li&gt;[ ] Python&lt;/li&gt;
+&lt;li&gt;[ ] Block Chain&lt;/li&gt;
+&lt;li&gt;[ ] ES 6&lt;/li&gt;
+&lt;li&gt;[ ] Functional JavaScript pluralsight.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Python Courses Collection&lt;/h2&gt;
+&lt;p&gt;📌Beginner Python https://drive.google.com/drive/folders/1KnfTxxCDurkm1vOty5tBuiNSZAi30014&lt;/p&gt;
+&lt;p&gt;📌Python Design Patterns https://drive.google.com/drive/folders/1qQF3oqKXsRnYoLwxu2qRKICWF2JlGCAn&lt;/p&gt;
+&lt;p&gt;📌Mastering Python https://drive.google.com/drive/folders/15lQClcQA2rHOpyo5mMFcigAvT7ucIzsW&lt;/p&gt;
+&lt;p&gt;📌Python Web Penetration Testing https://drive.google …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Learning List&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] React.js&lt;/li&gt;
+&lt;li&gt;[ ] Python&lt;/li&gt;
+&lt;li&gt;[ ] Block Chain&lt;/li&gt;
+&lt;li&gt;[ ] ES 6&lt;/li&gt;
+&lt;li&gt;[ ] Functional JavaScript pluralsight.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Python Courses Collection&lt;/h2&gt;
+&lt;p&gt;📌Beginner Python https://drive.google.com/drive/folders/1KnfTxxCDurkm1vOty5tBuiNSZAi30014&lt;/p&gt;
+&lt;p&gt;📌Python Design Patterns https://drive.google.com/drive/folders/1qQF3oqKXsRnYoLwxu2qRKICWF2JlGCAn&lt;/p&gt;
+&lt;p&gt;📌Mastering Python https://drive.google.com/drive/folders/15lQClcQA2rHOpyo5mMFcigAvT7ucIzsW&lt;/p&gt;
+&lt;p&gt;📌Python Web Penetration Testing https://drive.google.com/drive/folders/1ye6US-1ki9YjZYRqYQyFFJanlrdqrqrj&lt;/p&gt;
+&lt;p&gt;📌Python Machine Learning Projects https://drive.google.com/drive/folders/1TH7UCmFv4Y7HdAao0JquVMUKxl8Q7XHh&lt;/p&gt;
+&lt;p&gt;📌Deep Learning with Python https://drive.google.com/drive/folders/1ORyySQmRn9GRtvvxNNQyABBG9Dcs18gD&lt;/p&gt;
+&lt;p&gt;:rocket: &lt;a href="https://social.msdn.microsoft.com/Forums/Lync/en-US/05f8a873-49c2-49b5-a88d-e45bfb9e55f5/how-to-make-an-httpwebrequest-containing-saml-token?forum=silverlightarchieve"&gt;How to make an HttpWebRequest containing saml token?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;"Talk Python to Me" podcast&lt;/p&gt;
+&lt;p&gt;"Python Tricks" book by Dan Bader&lt;/p&gt;
+&lt;p&gt;"Automate the Boring Stuff" book by Al Sweigert&lt;/p&gt;</content><category term="Python"></category></entry></feed>
