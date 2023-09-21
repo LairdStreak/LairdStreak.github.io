@@ -1,1 +1,0 @@
-cp -a ./output/. ../LairdStreak.github.io 
