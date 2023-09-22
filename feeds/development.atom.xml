@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Laird Streak`s Blog - Development</title><link href="https://LairdStreak.github.io/" rel="alternate"></link><link href="https://LairdStreak.github.io/feeds/development.atom.xml" rel="self"></link><id>https://LairdStreak.github.io/</id><updated>2023-10-12T20:44:00+13:00</updated><entry><title>Hacktober Fest 2023 Update</title><link href="https://LairdStreak.github.io/hacktober-fest-2023-update.html" rel="alternate"></link><published>2023-10-12T20:44:00+13:00</published><updated>2023-10-12T20:44:00+13:00</updated><author><name>Laird Streak</name></author><id>tag:lairdstreak.github.io,2023-10-12:/hacktober-fest-2023-update.html</id><summary type="html">&lt;p&gt;Hacktober Fest 2023 participant.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;I have completed the following for Hacktober 2023.&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://LairdStreak.github.io/images/participant.jpg" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src="https://LairdStreak.github.io/images/participant2.jpg" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src="https://LairdStreak.github.io/images/level2.jpg" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src="https://LairdStreak.github.io/images/tree.jpg" /&gt;&lt;/p&gt;
+&lt;hr /&gt;</content><category term="Development"></category><category term="Development"></category></entry><entry><title>Embracing the Excitement: Why I Want to Participate in Hacktoberfest 2023</title><link href="https://LairdStreak.github.io/embracing-the-excitement-why-i-want-to-participate-in-hacktoberfest-2023.html" rel="alternate"></link><published>2023-10-02T16:49:00+13:00</published><updated>2023-10-02T16:49:00+13:00</updated><author><name>Laird Streak</name></author><id>tag:lairdstreak.github.io,2023-10-02:/embracing-the-excitement-why-i-want-to-participate-in-hacktoberfest-2023.html</id><summary type="html">&lt;p&gt;Hacktober Fest 2023 participant.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;WHY?&lt;/h2&gt;
+&lt;h1&gt;HacktoberFest 2023&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://LairdStreak.github.io/images/logo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;As a developer, the world of open source software has always fascinated me. The collaborative nature of building and improving software, sharing knowledge, and giving back to the community resonates deeply with my passion for coding. Hacktoberfest, an annual event organized by DigitalOcean and GitHub, offers an incredible opportunity to channel this passion and contribute meaningfully to open source projects. In this essay, I will explain why I am eagerly looking forward to participating in Hacktoberfest 2023.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Community and Collaboration:&lt;/strong&gt; Hacktoberfest is a celebration of the global open source community. It brings together developers from all corners of the world, fostering a sense of camaraderie and collaboration that is unparalleled. Engaging with fellow developers, exchanging ideas, and working together on open source projects is a valuable experience. It allows me to grow not only as a developer but also as a member of a vibrant and diverse community.
+&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skill Enhancement:&lt;/strong&gt; Contributing to open source projects challenges me to expand my skill set. It pushes me to explore new technologies, programming languages, and frameworks. Whether it's fixing a bug, adding a new feature, or optimizing code, these contributions provide opportunities to learn and improve. Hacktoberfest is a platform where I can take on various challenges and broaden my horizons.
+&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Giving Back:&lt;/strong&gt; The open source community has given me access to an abundance of free, high-quality software. Contributing to open source projects during Hacktoberfest is a way for me to give back to this community that has nurtured my growth as a developer. It's a chance to contribute to projects that have been instrumental in my own work and help others benefit from my contributions.
+&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Networking:&lt;/strong&gt; Hacktoberfest is not just about code; it's also about building connections. Participating in this event allows me to connect with developers, maintainers, and organizations that share my interests. These connections can lead to future collaborations, job opportunities, and a broader professional network.
+&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resume and Portfolio:&lt;/strong&gt; Open source contributions are a valuable addition to my developer portfolio. They demonstrate my skills, commitment to coding, and ability to work in a team. Having a track record of Hacktoberfest contributions showcases my dedication to the open source ethos and can be an attractive point for potential employers.
+&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Problem Solving:&lt;/strong&gt; Open source projects often present complex problems and challenges that require creative solutions. By participating in Hacktoberfest, I can sharpen my problem-solving skills. It's an opportunity to tackle real-world issues and find innovative ways to address them, which is an essential skill in the tech industry.
+&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recognition and Rewards:&lt;/strong&gt; The feeling of accomplishment that comes with successfully completing Hacktoberfest challenges is incredibly rewarding. Earning a limited-edition Hacktoberfest  digital badges adds a sense of achievement to the experience.
+&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Growth:&lt;/strong&gt; Beyond technical skills, Hacktoberfest fosters personal growth. It teaches discipline, time management, and perseverance. Meeting the challenge of contributing to open source projects within the given time frame requires dedication and determination, qualities that are beneficial in all aspects of life.
+&lt;br /&gt;
+In conclusion, my eagerness to participate in Hacktoberfest 2023 stems from a deep-rooted passion for coding, community, and collaboration. This event offers a unique platform for developers like me to give back to the open source community, enhance our skills, and connect with like-minded individuals. It is an opportunity for personal and professional growth that I eagerly anticipate and look forward to. Hacktoberfest is not just a coding event; it's a celebration of the spirit of open source, and I am excited to be a part of it.
+&lt;br /&gt;&lt;blockquote&gt;
+&lt;p&gt;Signing off Laird Streak (aka code grunt)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Development"></category><category term="Development"></category></entry></feed>
